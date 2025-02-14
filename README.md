@@ -1,4 +1,4 @@
-![]([https://arturssmirnovs.github.io/github-profile-readme-generator/images/banner.png](https://github.com/SuhasR3/SuhasR3/blob/main/1.gif))
+![](https://github.com/SuhasR3/SuhasR3/blob/main/1.gif)
 
 ### Hi there 👋, I'm Suhas!
 I'm a passionate Data Scientist and Machine Learning developer! Let's collaborate and build stuff that makes the world a better place!
