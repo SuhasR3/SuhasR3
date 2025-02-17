@@ -1,8 +1,5 @@
-![](https://github.com/SuhasR3/SuhasR3/blob/main/1.gif)
 # Hi there 👋, I'm Suhas!
 I'm a passionate Data Scientist and Machine Learning developer! Let's collaborate and build stuff that makes the world a better place!
-
-![](https://github.com/SuhasR3/SuhasR3/blob/main/4.gif)
 
 <h2>🛠 Languages and Tools I Use</h2>
 <p><a target="_blank" href="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" style="display: inline-block;"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="42" height="42" /></a>
@@ -24,3 +21,5 @@ I'm a passionate Data Scientist and Machine Learning developer! Let's collaborat
 <h2>🚀 Where to Find Me!</h2>
 
 [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SuhasR3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/suhasr3/)  
+
+![](https://github.com/SuhasR3/SuhasR3/blob/main/4.gif)
