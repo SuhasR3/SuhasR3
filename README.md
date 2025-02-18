@@ -1,4 +1,4 @@
-# Hi there 👋, I'm Suhas!
+## Hi there 👋, I'm Suhas!
 I'm a passionate Data Scientist and Machine Learning developer! Let's collaborate and build stuff that makes the world a better place!
 
 <h2>🛠 Languages and Tools I Use</h2>
