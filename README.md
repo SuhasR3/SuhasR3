@@ -20,6 +20,4 @@ I'm a passionate Data Analyst and Machine Learning developer! Let's collaborate 
 
 <h2>📬 Where to Find Me!</h2>
 
-[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SuhasR3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/suhasr3/)  
-
-![](https://github.com/SuhasR3/SuhasR3/blob/main/4.gif)
+[<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/github.svg' alt='github' height='40'>](https://github.com/SuhasR3)  [<img src='https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg' alt='linkedin' height='40'>](https://www.linkedin.com/in/suhasr3/)  ![](https://github.com/SuhasR3/SuhasR3/blob/main/4.gif)
