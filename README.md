@@ -6,8 +6,8 @@ I'm a passionate Data Analyst and Machine Learning developer! Let's collaborate 
 - **Database**: PostgreSQL
 - **Visualization**: Power BI, Tableau, Matplotlib, Seaborn
 
-<a href="https://suhasr3.github.io/">
-## 📚 My Projects 
+## 📚 My Projects
+Welcome to my <a href="https://suhasr3.github.io/"> portfolio, where I showcase my projects.
 
 ## 📬 Connect With Me
 <div align="left">
