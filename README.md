@@ -1,10 +1,9 @@
 # Hi there 👋, I'm Suhas!
-I'm a Data Analyst with expertise in data analysis and reporting, data modelling and machine learning.
-
-- Querying data using SQL.
+I'm a Data Analyst with expertise in:
+- Data analysis and reporting, data modelling and machine learning.
+- Automate ETL pipelines using SQL and Python to streamline data workflow.
 - Generate reports and perform ad-hoc data analysis using SQL.
-- Developing dashboards on Tableau and Looker Studio.
-- Data analysis and reporting using Google Sheets and Excel.
+- Developing interactive dashboards on Power BI & Tableau to visualize KPI.
 
 ## 🛠 Languages and Tools
 - **Languages**: Python, SQL
