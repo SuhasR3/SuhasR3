@@ -1,5 +1,10 @@
 # Hi there 👋, I'm Suhas!
-I'm a passionate Data Analyst and Machine Learning developer! Let's collaborate and build stuff that makes the world a better place!
+I'm a Data Analyst with expertise in data analysis and reporting, data modelling and machine learning.
+
+- Querying data using SQL.
+- Generate reports and perform ad-hoc data analysis using SQL.
+- Developing dashboards on Tableau and Looker Studio.
+- Data analysis and reporting using Google Sheets and Excel.
 
 ## 🛠 Languages and Tools
 - **Languages**: Python, SQL
