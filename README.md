@@ -1,7 +1,7 @@
 # Hi there 👋, I'm Suhas!
 I'm a passionate Data Analyst and Machine Learning developer! Let's collaborate and build stuff that makes the world a better place!
 
-<h2>🛠 Languages and Tools I Use</h2>
+## 🛠 Languages and Tools I Use
 - **Languages**: Python, SQL
 - **Database**: PostgreSQL
 - **Visualization**: Power BI, Tableau, Matplotlib, Seaborn
