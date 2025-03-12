@@ -9,7 +9,7 @@ I'm a passionate Data Analyst and Machine Learning developer! Let's collaborate 
 ## 📬 Where to Find Me!
 
 <div align="left">
-  <a href="https://www.linkedin.com/in/suhasr3" target="blank">
+  <a href="https://www.linkedin.com/in/suhasr3">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo" />
   <a href="mailto:sragha23@asu.edu">
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"  />
