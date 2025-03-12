@@ -11,7 +11,7 @@ I'm a Data Analyst with expertise in:
 - **Visualization**: Power BI, Tableau, Matplotlib, Seaborn
 
 ## 📚 My Projects
-Welcome to my <a href="https://suhasr3.github.io/"> portfolio, where I showcase my projects.
+Welcome to my portfolio, where I showcase my <a href="https://suhasr3.github.io/">projects.
 
 ## 📬 Connect With Me
 <div align="left">
