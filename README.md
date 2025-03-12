@@ -7,7 +7,7 @@ I'm a Data Analyst with expertise in:
 
 ## 🛠 Languages and Tools
 - **Languages**: Python, SQL
-- **Database**: PostgreSQL
+- **Database**: PostgreSQL, Microsoft SQL Server Management Studio
 - **Visualization**: Power BI, Tableau, Matplotlib, Seaborn
 
 ## 📚 My Projects
