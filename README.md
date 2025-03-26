@@ -2,7 +2,6 @@
 I'm a Data Analyst with expertise in:
 - Data analysis and reporting, data modelling and machine learning.
 - Automate ETL pipelines using SQL and Python to streamline data workflow.
-- Generate reports and perform ad-hoc data analysis using SQL.
 - Developing interactive dashboards on Power BI & Tableau to visualize KPI.
 
 ## 🛠 Languages and Tools
