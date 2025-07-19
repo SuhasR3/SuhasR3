@@ -1,8 +1,5 @@
 # Hi there 👋, I'm Suhas!
-I'm a Data Analyst with expertise in:
-- Data analysis and reporting, data modelling and machine learning.
-- Automate ETL pipelines using SQL and Python to streamline data workflow.
-- Developing interactive dashboards on Power BI & Tableau to visualize KPI.
+I'm a Data Science Graduate Student @ ASU (expected 2026) specializing in Machine learning, Data Engineering and Natural Language Processing (NLP), with 1+ years of professional experience in ETL Pipelines, secure cloud DevOps, and Data Migration.
 
 <br/>  
 
@@ -55,7 +52,7 @@ I'm a Data Analyst with expertise in:
 <br/>  
 
 
-## Connect with me  
+## 📬 Connect With Me  
 <div align="center">
 <a href="https://github.com/rishavanand" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -70,11 +67,3 @@ I'm a Data Analyst with expertise in:
 
 ## 📚 My Projects
 Welcome to my portfolio, where I showcase my <a href="https://suhasr3.github.io/">projects.
-
-## 📬 Connect With Me
-<div align="left">
-  <a href="https://www.linkedin.com/in/suhasr3">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"/>
-  <a href="mailto:sragha23@asu.edu">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="52" height="40" alt="gmail logo"/>
-</div>
