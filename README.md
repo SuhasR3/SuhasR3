@@ -1,6 +1,6 @@
 # Hi, I'm Suhas!👋
 
-**Software Engineer | Backend & Distributed Systems | MS Data Science @ Arizona State University (May 2026 Grad)**
+**3X Hackathon Winner🏆 | Backend & Distributed Systems | MS Data Science @ Arizona State University (May 2026 Grad)**
 
 I build backend systems and infrastructure at scale. 1 year of production experience shipping observability pipelines processing 50K+ events/min, REST APIs serving 20K+ users at 99.9% uptime, and performance optimizations across latency-critical services.
 
