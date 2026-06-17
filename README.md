@@ -1,4 +1,4 @@
-# Hi, I'm Suhas! 👋
+## Hi, I'm Suhas! 👋
 
 **4x Hackathon Winner 🏆 | Backend & Distributed Systems | MS Data Science @ Arizona State University (4.0 GPA, May 2026)**
 
