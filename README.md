@@ -1,18 +1,20 @@
-# Hi, I'm Suhas!👋
+# Hi, I'm Suhas! 👋
 
-**4X Hackathon Winner🏆 | Backend & Distributed Systems | MS Data Science @ Arizona State University (May 2026 Grad)**
+**4x Hackathon Winner 🏆 | Backend & Distributed Systems | MS Data Science @ Arizona State University (4.0 GPA, May 2026)**
 
-I build backend systems and infrastructure at scale. 1 year of production experience shipping observability pipelines processing 50K+ events/min, REST APIs serving 20K+ users at 99.9% uptime, and performance optimizations across latency-critical services.
+I build backend systems and infrastructure at scale. One year of production experience: REST APIs at p95 under 50ms serving 20K+ users at 99.9% uptime, a Kafka observability pipeline ingesting 50K+ events per minute, and reliability work that cut mean time to detect by 60% and production incidents by 40%.
 
 ## Tech Stack
 
 **Languages:** Python, Java, Go, TypeScript, SQL
 
-**Backend & Infra:** Spring Boot, FastAPI, Node.js, Kafka, gRPC, Kubernetes, Docker
+**Backend & Infra:** Spring Boot, FastAPI, Node.js, Kafka, gRPC, Kubernetes, Docker  
 
-**Cloud:** AWS (EC2, S3, Lambda), Prometheus, Grafana
+**Cloud:** AWS (EC2, S3, Lambda), Prometheus, Grafana  
 
-**Data:** PostgreSQL, MongoDB, Redis
+**Data:** PostgreSQL, MongoDB, Redis  
+
+**GenAI:** LLM integration, LangChain, Hugging Face, Gemini API  
 
 ## Connect With Me
 
